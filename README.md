@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JustTuri
 - 👀 I’m interested in back-end development, machine learning, and AI.
-- 🌱 I’m currently learning Pyhton, JavaScript, HTML, and CSS for web development and AI.
-- 💞️ I’m looking to collaborate on anything that seems appealing!
+- 🌱 I’m currently learning Python, JavaScript, HTML, and CSS for web development and AI/ML.
+- 💞️ I’m looking to create simple and intuitive solutions to everyday problems!
 - 📫 How to reach me - arturogcorral@comcast.net
 
 <!---
