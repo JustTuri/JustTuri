@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo</h1>
 <h3 align="center">A passionate software developer from Miami, Florida</h3>
 
-- 🔭 I’m currently working on **Applied Behavioral Analysis App and an Unofficial Fear Pong Clone**
+- 🔭 I’m currently working on **Applied Behavioral Analysis App and an Unofficial Fear Pong Mobile App**
 
 - 🌱 I’m currently learning **JavaScript, React.js, HTML, and CSS**
 
