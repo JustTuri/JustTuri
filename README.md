@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustTuri
-- 👀 I’m interested in full-stack development with an emphasis on back-end, machine learning, and AI.
-- 🌱 I’m currently learning Python, JavaScript, HTML, and CSS for web development and AI/ML.
+- 👀 I’m interested in full-stack development with an emphasis on the back-end.
+- 🌱 I’m currently learning JavaScript and React for web development.
 - 💞️ I’m looking to create simple and intuitive solutions to everyday problems!
 - 📫 How to reach me - arturogcorral@comcast.net
 
