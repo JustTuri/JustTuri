@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arturo</h1>
 <h3 align="center">A passionate software developer from Miami, Florida</h3>
 
-- 🔭 I’m currently working on **Applied Behavioral Analysis App and an Unofficial Fear Pong Mobile App**
+- 🔭 I’m currently working on **Applied Behavioral Analysis App and an Unofficial Fear Pong Clone**
 
 - 🌱 I’m currently learning **JavaScript, React.js, HTML, and CSS**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/arturo-corral-67292821a](https://www.linkedin.com/in/arturo-corral-67292821a)
 
 - ⚡ Fun fact **I love weightlifting, collecting vinyl, dancing salsa + bachata, fashion, and cooking + bartending.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arturo-corral-67292821a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arturo-corral-67292821a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
