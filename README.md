@@ -6,10 +6,10 @@
 ### <div align="center">I'm Arturo, a full-time software engineer 👨‍💻 working for Kaseya! 🚀</div>  
   
 
-- 🔭 I’m currently working on an Unofficial Fear Pong Mobile App  
+- 🔭 I’m currently working on an Unofficial Truth or Drink Mobile App
   
 
-- 🌱 I’m currently learning JavaScript, React.js, HTML, and CSS  
+- 🌱 I’m currently learning Java Spring, JavaScript, React.js, HTML, and CSS  
   
 
 - ⚡ Fun fact: I love weightlifting, collecting vinyl, dancing salsa + bachata, fashion, cooking, and bartending.  
